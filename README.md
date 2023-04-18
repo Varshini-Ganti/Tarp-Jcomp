@@ -6,4 +6,5 @@ SIFT algorithm worked best for our project.
 It has 3 stages: In the first stage we will detect different products; in the next stage we will detect multiple products when kept together in the same rack and in the last stage we detect different products which are placed in different racls of same shelf.
 We are using SIFT(Scale-Invariant Feature Transform) algorithm to extract the features of an image and FLANN(Fast Library for Approximate Nearest Neighbors) Matcher with KNN to match the extracted features of sifferent products
 The implementation of SIFT algorithm is performed using colab and the notebook jomp_tarp(4) has the required code
-The implementation of TFOD algorithm and YOLOV3 are included in tarp_jcomp and file respectibely
+The implementation of TFOD algorithm and YOLOV3 are included in tarp_jcomp and file respectively
+report.pdf contains details of our project and method we used.
